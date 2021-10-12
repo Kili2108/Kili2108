@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kili2108
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C
+Hi, I’m @Kili2108
+I'm a Student in Austria and I’m interested in Programming
+I’m currently learning C
 
 <!---
 Kili2108/Kili2108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
